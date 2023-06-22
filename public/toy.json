@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "category_id": "sports car",
+      "image":"https://i.ibb.co/jwLcKhn/13.jpg",
+      "sellerName":"Kabir",
+      "name": "Driven by Battat",
+      "price": 29.99,
+      "rating": 4.5,
+      "quantity":250
+    },
+    {
+      "id": 2,
+      "category_id": "sports car",
+      "image": "https://i.ibb.co/pKJ4tcj/14.jpg",
+      "sellerName":"Kabir",
+      "name": "Bburago 1:24 R&P Ferrari 488 Pista - Red",
+      "price": 28.68,
+      "rating": 4.0,
+      "quantity":550
+    },
+    {
+      "id": 3,
+      "category_id": "sports car",
+      "image": "https://i.ibb.co/1v7WSmC/17.jpg",
+      "sellerName":"Emran",
+      "name": "APLIQE Scale Model Vehicles",
+      "price": 114.99,
+      "rating": 5.00,
+      "quantity":250
+    },
+    {
+      "id": 4,
+      "category_id": "sports car",
+      "image": "https://i.ibb.co/5FB5Zyz/15.jpg",
+      "sellerName":"Emran",
+      "name": "Bburago 1:43 F1 Aston Martin RED ",
+      "price": 39.99,
+      "rating": 4.7,
+      "quantity":250
+    },
+    {
+      "id": 5,
+      "category_id": "truck",
+      "image": "https://i.ibb.co/SRt4fx0/1000-F-24760573-pu-Hi3s-Ggzb-LGTKtu-MEGWn-J9-MJur-F1j0g.jpg",
+      "sellerName":"Kabir",
+      "name": "John Deere Sandbox",
+      "price": 24.99,
+      "rating": 4.2,
+      "quantity":250
+    },
+    {
+      "id": 6,
+      "category_id": "truck",
+      "image": "https://i.ibb.co/TRNTwwt/1000-F-34627998-Xsi9-Or-MChz-Wjk-Jv-GEaaz-Nx-OUBm2vv1-AI.jpg",
+      "sellerName":"Pabel",
+      "name": "Jada Toys Just Trucks",
+      "price": 64.99,
+      "rating": 4.6,
+      "quantity":250
+    },
+    {
+      "id": 7,
+      "category_id": "truck",
+      "image": "https://i.ibb.co/k3tvchL/1000-F-86288741-Dk-TWOsm-Ah-TZBv3-CNz-Ko-H7lz5xzz17-Kv-A-transformed.jpg",
+      "sellerName":"Noyon",
+      "name": "Green Toys Dump Truck",
+      "price": 64.99,
+      "rating": 4.6,
+      "quantity":250
+    },
+    {
+      "id": 8,
+      "category_id": "truck",
+      "image": "https://i.ibb.co/pvq3Dg0/1000-F-160450358-S50-Ltu-Ffap-Mizf-Hhd-No-Bw-EZgr-B4-Gx-Jr-F-transformed.jpg",
+      "name": "Jurassic World Toys",
+      "sellerName":"Emran",
+      "price": 64.99,
+      "rating": 4.6,
+      "quantity":100
+    },
+    {
+      "id": 9,
+      "category_id": "mini police car",
+      "image": "https://m.media-amazon.com/images/I/71jrSZJjiHL._AC_SX569_.jpg",
+      "sellerName":"Kabir",
+      "name": "Driven by Battat",
+      "price": 124.99,
+      "rating": 4.2,
+      "quantity":210
+    },
+    {
+      "id": 10,
+      "category_id": "mini police car",
+      "image": "https://m.media-amazon.com/images/I/71NKJ4U88IL._AC_SX569_.jpg",
+      "sellerName":"Joy",
+      "name": "KiNSMART - Police Cars",
+      "price": 264.99,
+      "rating": 4.6,
+      "quantity":270
+    },
+    {
+      "id": 11,
+      "category_id": "mini police car",
+      "image": "https://m.media-amazon.com/images/I/61FcYDw8CVS._AC_SX569_.jpg",
+      "sellerName":"Emran",
+      "name": "Robocar Poli Toys",
+
+      "price": 64.99,
+      "rating": 4.6,
+      "quantity":230
+    },
+    {
+      "id": 12,
+      "category_id": "mini police car",
+      "image": "https://i.ibb.co/WxNwRnY/37517.jpg",
+      "sellerName":"Noyon",
+      "name": "LEGO City Police Car",
+      "price": 64.99,
+      "rating": 4.6,
+      "quantity":150
+    }
+  ]
